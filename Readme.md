@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/dxSampleGrid/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/dxSampleGrid/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/dxSampleGrid/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/dxSampleGrid/MainWindow.xaml.vb))
+* [MyLayoutAdapter.cs](./CS/dxSampleGrid/MyClasses/MyLayoutAdapter.cs) (VB: [MyLayoutAdapter.vb](./VB/dxSampleGrid/MyClasses/MyLayoutAdapter.vb))
+* [MyViewModel.cs](./CS/dxSampleGrid/MyClasses/MyViewModel.cs) (VB: [MyViewModel.vb](./VB/dxSampleGrid/MyClasses/MyViewModel.vb))
+* [Person.cs](./CS/dxSampleGrid/MyClasses/Person.cs) (VB: [Person.vb](./VB/dxSampleGrid/MyClasses/Person.vb))
+<!-- default file list end -->
 # How to: Build Dock UI According to MVVM Pattern Using LayoutAdapter
 
 
