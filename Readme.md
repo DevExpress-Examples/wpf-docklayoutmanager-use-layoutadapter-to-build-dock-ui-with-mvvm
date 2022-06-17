@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# WPF Dock Layout Manager - Use LayoutAdapter to Build a Layout UI with MVVM Pattern
+# WPF Dock Layout Manager - Use LayoutAdapter to Build a Layout UI with the MVVM Pattern
 
 This example uses the LayoutAdapter to build a dock UI according to the MVVM design.
 
