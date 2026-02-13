@@ -28,7 +28,7 @@ This example uses the LayoutAdapter to build a dock UI according to the MVVM d
 ## More Examples
 - [WPF Dock Layout Manager - Use IMVVMDockingProperties Interface to Build Dock UI with the MVVM Pattern](https://github.com/DevExpress-Examples/wpf-docklayoutmanager-use-imvvmdockingproperties-to-build-dock-ui-with-mvvm)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-docklayoutmanager-use-layoutadapter-to-build-dock-ui-with-mvvm&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-docklayoutmanager-use-layoutadapter-to-build-dock-ui-with-mvvm&~~~was_helpful=no)
 
